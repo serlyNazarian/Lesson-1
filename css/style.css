@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+.first {
+    width: 600px;
+    height: 400px;
+}
+
+.second {
+    background-color: red;
+    width: 200px;
+    
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
